@@ -1,1 +1,13 @@
 /* Add your styles here */
+
+.two-column {
+    background-color: black;
+    column-gap: 10px;
+    color: #50C878;
+    outline-style: groove;
+    outline-width: 0.3cm;
+}
+
+.right{
+    background-color: aquamarine;
+}
